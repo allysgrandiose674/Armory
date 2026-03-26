@@ -1,5 +1,4 @@
 ---
-citadel: true
 name: doc-gen
 description: >-
   Documentation generator with three modes: function-level (JSDoc/docstrings),
